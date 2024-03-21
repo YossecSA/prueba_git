@@ -1,9 +1,6 @@
 ## Saludo
 
-Bienvenido a mi pagina web, mi nombre es yossec
-
-# Prueba
-
+sano
 > Aqui puede ir codigo
 >
 ## Texto desde GITHUB
