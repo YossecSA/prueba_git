@@ -10,4 +10,5 @@ bienvenido yossec, datos desde github otenidos
 salufos finales
 # languajes
  cambios 
+ para probar errores
  # cambios desde nube
