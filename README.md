@@ -14,4 +14,7 @@ salufos finales
  # error
  > codigo de html
  # cambios desde nube
+> rama saludo para encontrar errores
+## Lorem
+- rama saludo
 ## para probar si hay errores nuevos
