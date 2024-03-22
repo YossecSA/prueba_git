@@ -10,4 +10,4 @@ bienvenido yossec, datos desde github otenidos
 salufos finales
 # languajes
  cambios 
- 
+ # cambios desde nube
